@@ -21,3 +21,10 @@ API Endpoints can be tested in POSTMAN
 + GET /todos: Fetches the list of all TODO items.
 + POST /todos: Adds a new TODO item to the list.
 + DELETE /todos/:id: Deletes a TODO item with the specified ID.
+
+
+<img width="1033" alt="Screenshot 2023-08-17 at 2 07 57 AM" src="https://github.com/ravikr-opnsrc/todo-application/assets/135989427/34242fa2-b790-49b2-baa5-82e638ae85b9">
+
+
+
+  
