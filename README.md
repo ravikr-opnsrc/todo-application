@@ -12,12 +12,12 @@ This TODO application is a basic project built using Express.js for the backend 
 
 
 Features
-Add a new TODO item with a title and description.
-View the list of existing TODO items.
-Delete a TODO item from the list.
++ Add a new TODO item with a title and description.
++ View the list of existing TODO items.
++ Delete a TODO item from the list.
 
 
-API Endpoints
-GET /todos: Fetches the list of all TODO items.
-POST /todos: Adds a new TODO item to the list.
-DELETE /todos/:id: Deletes a TODO item with the specified ID.
+API Endpoints can be tested in POSTMAN
++ GET /todos: Fetches the list of all TODO items.
++ POST /todos: Adds a new TODO item to the list.
++ DELETE /todos/:id: Deletes a TODO item with the specified ID.
